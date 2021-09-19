@@ -4,4 +4,4 @@ Title: Matchstickers
 
 Author: MatchstickWorks
 
-Latest sticker link: [Matchstickers](https://signal.art/addstickers/#pack_id=207c1019eb1f8144add8fc8c0f187a65&pack_key=8f0361a49f365a409f2e2cbedb075d658f471dfaf3d206ee33c27a3030675b5e)
+Latest sticker link: [Matchstickers](https://signal.art/addstickers/#pack_id=6a45b65261c2fb45027ab06c62316579&pack_key=306c2f2de52f378b5b7fcdc10fde2118cb7e6da284ab12e650216fc3db63c3dc)
